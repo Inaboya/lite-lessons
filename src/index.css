@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* High-contrast mode: use as hc:bg-black etc. Active when <body class="hc"> */
+@custom-variant hc (&:where(.hc, .hc *));
+
+@layer base {
+  body {
+    @apply bg-white text-slate-900 hc:bg-black hc:text-white;
+  }
+  :focus-visible {
+    @apply outline-3 outline-offset-2 outline-amber-500;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply min-h-11 cursor-pointer rounded-lg border-2 border-blue-600 bg-white px-3.5 py-2
+           text-base font-medium text-blue-600 hover:bg-blue-50
+           hc:border-yellow-300 hc:bg-black hc:text-yellow-300 hc:hover:bg-neutral-800;
+  }
+  .btn[aria-pressed="true"] {
+    @apply bg-blue-600 text-white hover:bg-blue-700
+           hc:bg-yellow-300 hc:text-black hc:hover:bg-yellow-200;
+  }
+}

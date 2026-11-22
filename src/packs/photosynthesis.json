@@ -1,0 +1,71 @@
+{
+  "id": "photosynthesis",
+  "title": "Photosynthesis",
+  "subject": "Biology",
+  "original": "Photosynthesis is the biochemical process by which autotrophic organisms, primarily green plants, convert light energy into chemical energy stored in glucose. It occurs in the chloroplasts, where chlorophyll absorbs light, chiefly in the red and blue wavelengths. During the light-dependent reactions, water molecules are split, releasing oxygen as a by-product. In the subsequent Calvin cycle, carbon dioxide absorbed through the stomata is fixed into glucose. The overall process can be summarised as carbon dioxide plus water, in the presence of light and chlorophyll, yielding glucose and oxygen.",
+  "plain": "Plants make their own food using sunlight. This is called photosynthesis.\n\nThe work happens in the leaves, inside tiny parts called chloroplasts. They contain a green substance, chlorophyll, which catches sunlight.\n\nThe plant takes in water through its roots and carbon dioxide from the air through tiny holes in its leaves. Using the energy from sunlight, it turns these into glucose, a sugar the plant uses as food. Oxygen is released into the air.\n\nIn short: carbon dioxide + water + sunlight = glucose + oxygen.",
+  "glossary": [
+    {
+      "term": "Chlorophyll",
+      "meaning": "The green substance in leaves that catches sunlight."
+    },
+    {
+      "term": "Chloroplast",
+      "meaning": "A tiny part inside plant cells where photosynthesis happens."
+    },
+    {
+      "term": "Glucose",
+      "meaning": "A sugar that plants make and use as food."
+    },
+    {
+      "term": "Stomata",
+      "meaning": "Tiny holes in leaves that let air in and out."
+    },
+    {
+      "term": "By-product",
+      "meaning": "Something extra that is made during a process."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does a plant need for photosynthesis?",
+      "options": [
+        "Sunlight, water and carbon dioxide",
+        "Oxygen and sugar",
+        "Soil only",
+        "Darkness and water"
+      ],
+      "answer": 0,
+      "why": "Plants combine sunlight, water and carbon dioxide to make food."
+    },
+    {
+      "q": "Which part of the cell catches sunlight?",
+      "options": ["Stomata", "Chlorophyll", "Roots", "Glucose"],
+      "answer": 1,
+      "why": "Chlorophyll is the green substance that absorbs light."
+    },
+    {
+      "q": "What gas is released during photosynthesis?",
+      "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+      "answer": 2,
+      "why": "Oxygen is released as a by-product."
+    },
+    {
+      "q": "What are stomata?",
+      "options": [
+        "Sugar stores",
+        "Tiny holes in leaves",
+        "Parts of the root",
+        "Types of light"
+      ],
+      "answer": 1,
+      "why": "Stomata let carbon dioxide into the leaf."
+    },
+    {
+      "q": "What food does the plant make?",
+      "options": ["Protein", "Salt", "Glucose", "Water"],
+      "answer": 2,
+      "why": "Glucose is the sugar the plant uses as food."
+    }
+  ]
+}

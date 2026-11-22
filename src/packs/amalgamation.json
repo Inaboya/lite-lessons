@@ -1,0 +1,90 @@
+{
+  "id": "amalgamation",
+  "title": "The 1914 Amalgamation of Nigeria",
+  "subject": "Civic Education",
+  "original": "Prior to 1914, Nigeria did not exist as a single political entity. British colonial authority was exercised over separate territories. Britain annexed the Colony of Lagos in 1861. In 1900, the British government assumed administrative control of the territories previously governed by the Royal Niger Company and organised them into the Northern Protectorate and the Southern Protectorate. In 1906, the Colony of Lagos was merged with the Southern Protectorate.\n\nThe two protectorates differed considerably in their economic circumstances. The Northern Protectorate generated insufficient revenue, whereas the Southern Protectorate derived substantial income from trade. The colonial government relied on surplus revenue from the South to cover the administrative deficit of the North. The British motives for unification were financial economy and administrative convenience.\n\nSir Frederick Lugard, the British colonial administrator, formally merged the Northern and Southern Protectorates on 1 January 1914. This event is known as the Amalgamation. The name \"Nigeria\" had been proposed in 1897 by the British journalist Flora Shaw, who later married Lugard.\n\nThe Amalgamation remains a subject of debate. Critics argue that it placed many distinct peoples, with different languages and religions, under a single administration. Others argue that it created a large unified country capable of shared trade, development and planning. Nigeria attained independence on 1 October 1960.",
+  "plain": "Before 1914, Nigeria was not one country. Britain ruled the land in separate parts. Britain took the Colony of Lagos in 1861. In 1900, the British government took control of lands that the Royal Niger Company had run. Britain then made two parts: the Northern Protectorate and the Southern Protectorate. In 1906, the Colony of Lagos joined the Southern Protectorate.\n\nThe two protectorates were very different. The North had less money. The South earned more money from trade. Britain used money from the South to pay the costs of the North. Britain wanted to save money. It also wanted to rule the land more easily.\n\nFrederick Lugard was the British leader in charge. On 1 January 1914, he joined the Northern and Southern Protectorates into one country. This event is called the Amalgamation. A British journalist named Flora Shaw suggested the name \"Nigeria\" in 1897. She later married Lugard.\n\nMany people still debate the Amalgamation. Some say it put many different peoples, with different languages and religions, under one government. Others say it created one large country that could trade, build and plan together. Nigeria became independent on 1 October 1960.",
+  "glossary": [
+    {
+      "term": "colony",
+      "meaning": "A land that is ruled by another country."
+    },
+    {
+      "term": "protectorate",
+      "meaning": "A land that is controlled and protected by a stronger country."
+    },
+    {
+      "term": "amalgamation",
+      "meaning": "The joining of two or more things into one."
+    },
+    {
+      "term": "journalist",
+      "meaning": "A person who writes news stories for newspapers or other media."
+    },
+    {
+      "term": "debate",
+      "meaning": "To talk about a topic when people have different opinions."
+    },
+    {
+      "term": "independent",
+      "meaning": "Free from the control of another country."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "When did Frederick Lugard join the Northern and Southern Protectorates?",
+      "options": [
+        "1 October 1960",
+        "1 January 1914",
+        "1 January 1900",
+        "1 October 1861"
+      ],
+      "answer": 1,
+      "why": "Lugard joined the two protectorates on 1 January 1914. This event is called the Amalgamation."
+    },
+    {
+      "q": "Who suggested the name \"Nigeria\" in 1897?",
+      "options": [
+        "Frederick Lugard",
+        "A leader of the Royal Niger Company",
+        "Flora Shaw",
+        "A governor of Lagos"
+      ],
+      "answer": 2,
+      "why": "Flora Shaw, a British journalist, suggested the name. She later married Lugard."
+    },
+    {
+      "q": "Why did Britain pay for the North with money from the South?",
+      "options": [
+        "The North had less money.",
+        "The South wanted to be independent.",
+        "The North earned more from trade.",
+        "The Royal Niger Company asked for it."
+      ],
+      "answer": 0,
+      "why": "The North had less money, and the South earned more from trade. So Britain used money from the South to pay the North's costs."
+    },
+    {
+      "q": "What happened to the Colony of Lagos in 1906?",
+      "options": [
+        "It became independent.",
+        "It joined the Northern Protectorate.",
+        "It was taken by Britain for the first time.",
+        "It joined the Southern Protectorate."
+      ],
+      "answer": 3,
+      "why": "Britain took Lagos in 1861. In 1906, the Colony of Lagos joined the Southern Protectorate."
+    },
+    {
+      "q": "When did Nigeria become independent?",
+      "options": [
+        "1 October 1960",
+        "1 January 1914",
+        "1 January 1906",
+        "1 October 1900"
+      ],
+      "answer": 0,
+      "why": "Nigeria became independent on 1 October 1960."
+    }
+  ]
+}
